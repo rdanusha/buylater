@@ -16,6 +16,7 @@ Built by rdanusha. MIT licensed.
 - Once ready, record Bought, Skipped or Still thinking (+24 hours).
 - View wishlist totals, skipped spending, recorded purchases and a decision-count chart.
 - Filter and sort your list, delete individual entries with confirmation, export JSON backups and import a replacement list.
+- Open “How BuyLater works” near the top for a quick guide to adding items, waiting, deciding and keeping a backup.
 - Start empty, or explore explicitly fictional examples that never change your saved list.
 - One currency per list: USD, EUR, GBP, CAD, AUD or LKR. No currency conversion. Positive prices support up to two decimal places, a maximum of 1,000,000,000.00 per item and 1,000 items per list.
 
